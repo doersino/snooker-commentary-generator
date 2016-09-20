@@ -42,7 +42,7 @@ lines =
     , "He's just got a little angle there."
     , "Look at that right-hand side on the cue ball!"
     , "Just watch the cue ball. Look at that side!"
-    , "Would've been very unfortunage not to have been on a red."
+    , "Would've been very unfortunate not to have been on a red."
     , "He's on the yellow."
     , "He's nicely on this red."
     , "Nicely on reds to both middles."
@@ -70,6 +70,20 @@ lines =
 
     // suggested by /u/inflameswetrustsss, see https://www.reddit.com/r/snooker/comments/53o2hc/snooker_commentary_generator/d7utyhb
     , "He might be going for that difficult brown, or the easy pink."
+
+    // via https://twitter.com/bbcsnooker/status/556213288707825664
+    , "If he picked it up with his hand, he couldn't have placed it any better."
+    , "This game is all about fractions."
+
+    // based on an old Reddit thread, see https://www.reddit.com/r/snooker/comments/2oogay/snooker_commentary_drinking_game_just_for_fun/
+    , "The black's tied up now."
+    , "With the blue and pink out of commission, he has to pot the black to clinch the frame."
+    , "He's left it in the jaws of the pocket!"
+    , "He's hampered by the green."
+    , "A slight cannon into the pink could lead to a frame-winning opportunity."
+    , "A little wry smile on his face."
+    , "It's amazing, isn't it?"
+    , "A total clearance looks a formality now."
     ]
 
 function breakOff() {
