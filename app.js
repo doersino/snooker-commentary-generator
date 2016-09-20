@@ -84,6 +84,25 @@ lines =
     , "A little wry smile on his face."
     , "It's amazing, isn't it?"
     , "A total clearance looks a formality now."
+
+    // from the first hour of https://www.youtube.com/watch?v=0j4ng7PL5yc
+    , "Well, this could be a real cracker."
+    , "He's made a bit of a mess of that, it would seem."
+    , "Oh, did that kick?"
+    , "He's left the cue ball very close to the cushion."
+    , "I think he's just rolling into this one deadweight."
+    , "Now, that's a bit unlucky."
+    , "That will do."
+    , "I think he can get through to this read near the middle pocket, it's definitely cuttable."
+    , "Nice cannon as well."
+    , "Well, I'm not sure whether this loose red goes into the right corner."
+    , "Well, I said he needed some luck, and he hasn't got any."
+    , "That was well played."
+    , "It's on, and he could stun through for the pink to the middle."
+    , "I don't think there's any value to taking the brown on, he can't get himself onto a red."
+    , "It's close..."
+    , "Needs to slow up!"
+    , "Needs to slow down!"
     ]
 
 function breakOff() {
