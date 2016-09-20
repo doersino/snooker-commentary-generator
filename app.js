@@ -63,6 +63,13 @@ lines =
     , "Just needed the cue ball to hold up, just a fraction."
     , "It's dificult to see what he could play."
     , "Just a little touch on the two reds, developing them."
+
+    // suggested by /u/enilkcals, see https://www.reddit.com/r/snooker/comments/53o2hc/snooker_commentary_generator/d7urdbj
+    , "He's blessed with wonderful cue action."
+    , "He's blessed with powerful cue action."
+
+    // suggested by /u/inflameswetrustsss, see https://www.reddit.com/r/snooker/comments/53o2hc/snooker_commentary_generator/d7utyhb
+    , "He might be going for that difficult brown, or the easy pink."
     ]
 
 function breakOff() {
