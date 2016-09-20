@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 html {
     height: 100%;
@@ -22,7 +23,7 @@ body:before {
     margin-right: -0.25rem;
 }
 main {
-    max-width: 100rem;
+    max-width: 99%;
     display: inline-block;
     vertical-align: middle;
     margin: auto;
