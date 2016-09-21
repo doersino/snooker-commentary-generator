@@ -93,7 +93,7 @@ lines =
     , "I think he's just rolling into this one deadweight."
     , "Now, that's a bit unlucky."
     , "That will do."
-    , "I think he can get through to this read near the middle pocket, it's definitely cuttable."
+    , "I think he can get through to this red near the middle pocket, it's definitely cuttable."
     , "Nice cannon as well."
     , "Well, I'm not sure whether this loose red goes into the right corner."
     , "Well, I said he needed some luck, and he hasn't got any."
