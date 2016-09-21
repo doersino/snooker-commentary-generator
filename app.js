@@ -115,6 +115,9 @@ lines =
     , "He's given himself a lot to do here."
     , "Helpful little kiss on the pink there."
     , "He's ended up on the wrong side of the blue, now he's going to have to go in and out of baulk."
+
+    // suggested by @slackline, see https://github.com/doersino/snooker-commentary-generator/issues/2
+    , "He's had a result there."
     ]
 
 function breakOff() {
