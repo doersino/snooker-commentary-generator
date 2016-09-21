@@ -118,6 +118,31 @@ lines =
 
     // suggested by @slackline, see https://github.com/doersino/snooker-commentary-generator/issues/2
     , "He's had a result there."
+
+    // from the second half of https://www.youtube.com/watch?v=0j4ng7PL5yc
+    , "There's a red to the left corner on here, but I'm not quite sure where the white would finish."
+    , "That's good cueing off the side cushion there."
+    , "Well, he was trying to get on the red near the green, but didn't quite get enough check side on the cue ball."
+    , "Nicely held for the black."
+    , "We know that these boys think two, three, four, possibly five shots ahead when they're at the table."
+    , "Well, that's a nice little nudge off the pink."
+    , "He can't continue the break, but he can put his opponent in trouble."
+    , "Trying to make something happen, but it's not quite happening."
+    , "I just thought for a few seconds there that he might snooker himself behind the black."
+    , "There's plenty of room, but it's no gimmick."
+    , "He wasn't enjoying the scrappy frames."
+    , "Might get the double!"
+    , "He's left a half-chance to the middle."
+    , "He's caught that a bit thin."
+    , "He's caught that quite thick."
+
+    // from https://www.youtube.com/watch?v=ANjmLfoLiA0
+    , "Well, somehow he's got to disturb that yellow and brown."
+    , "Somehow he's got to fluke the yellow."
+    , "You never know, there's six pockets on the table!"
+
+    // from https://www.youtube.com/watch?v=zGWmZ_pZyKs
+    , "He likes these thin cuts."
     ]
 
 function breakOff() {
