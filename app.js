@@ -51,7 +51,7 @@ lines =
     , "He doesn't want to catch those reds on the way down, though."
     , "Well, he's the favourite to take this frame now!"
     , "Found the angle."
-    , "He's of cours going to need the black."
+    , "He's of course going to need the black."
     , "Now do you think he'll play for the double?"
     , "That was so close!"
     , "What a fantastic long black!"
@@ -103,6 +103,18 @@ lines =
     , "It's close..."
     , "Needs to slow up!"
     , "Needs to slow down!"
+
+    // suggested by /u/1amarr, see https://www.reddit.com/r/snooker/comments/53o2hc/snooker_commentary_generator/d7v49ka
+    , "Absolutely inch perfect!"
+    , "I've never seen anything like that before."
+
+    // suggested by /u/I_tend_to_correct_u, see https://www.reddit.com/r/snooker/comments/53o2hc/snooker_commentary_generator/d7vbheh
+    , "We have a knowledgable crowd in this evening."
+    , "You're never settled until you've got a frame on the board."
+    , "A crucial frame, this one!"
+    , "He's given himself a lot to do here."
+    , "Helpful little kiss on the pink there."
+    , "He's ended up on the wrong side of the blue, now he's going to have to go in and out of baulk."
     ]
 
 function breakOff() {
