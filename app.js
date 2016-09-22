@@ -129,7 +129,7 @@ lines =
     , "He can't continue the break, but he can put his opponent in trouble."
     , "Trying to make something happen, but it's not quite happening."
     , "I just thought for a few seconds there that he might snooker himself behind the black."
-    , "There's plenty of room, but it's no gimmick."
+    , "There's plenty of room, but it's no gimme."
     , "He wasn't enjoying the scrappy frames."
     , "Might get the double!"
     , "He's left a half-chance to the middle."
