@@ -61,7 +61,7 @@ lines =
     , "Generous round of applause for a good safety shot."
     , "Brilliant snooker!"
     , "Just needed the cue ball to hold up, just a fraction."
-    , "It's dificult to see what he could play."
+    , "It's difficult to see what he could play."
     , "Just a little touch on the two reds, developing them."
 
     // suggested by /u/enilkcals, see https://www.reddit.com/r/snooker/comments/53o2hc/snooker_commentary_generator/d7urdbj
@@ -146,6 +146,12 @@ lines =
 
     // suggested by Ken Doherty, see https://twitter.com/kendoherty1997/status/778984382765957122
     , "That was careless!<span>suggested by Ken Doherty</span>"
+
+    // suggested by @BigNoiseSneezer, see https://twitter.com/bignoisesneezer/status/779005674151895040
+    , "He missed that by a country mile!"
+
+    // suggested by @SimonPkcjones, see https://twitter.com/simonpkcjones/status/779016611206406145
+    , "There's always a gap!"
     ]
 
 function breakOff() {
