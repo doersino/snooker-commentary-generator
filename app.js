@@ -145,7 +145,7 @@ lines =
     , "He likes these thin cuts."
 
     // suggested by Ken Doherty, see https://twitter.com/kendoherty1997/status/778984382765957122
-    , "That was careless!<span>suggested by Ken Doherty</span>"
+    , "That was careless!<span>suggested by <a href='https://twitter.com/kendoherty1997/status/778984382765957122'>Ken Doherty</a></span>"
 
     // suggested by @BigNoiseSneezer, see https://twitter.com/bignoisesneezer/status/779005674151895040
     , "He missed that by a country mile!"

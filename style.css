@@ -30,44 +30,44 @@ main {
     padding: 3rem;
     text-align: center;
 }
-main h1 {
+h1 {
     font-size: 2.75rem;
     line-height: 3.33rem;
     font-weight: 300;
 }
 @media (max-width: 480px) {
-    main h1 {
+    h1 {
         font-size: 2.25rem;
         line-height: 2.75rem;
     }
 }
-main span {
+span {
     margin-top: 2rem;
     display: block;
     font-size: 1.3rem;
     line-height: 2rem;
 }
-main a {
+a {
+    color: inherit;
+}
+a:hover {
+    color: rgba(255,255,255,0.8);
+}
+main > a {
     display: inline-block;
     border: 1px solid white;
     border-radius: 100rem;
     padding: 1.5rem;
     margin-top: 4rem;
-    color: white;
     text-decoration: none;
     text-transform: uppercase;
 }
-main a:hover {
+main > a:hover {
     background-color: rgba(255,255,255,0.15);
+    color: inherit;
 }
 aside {
     margin-top: -2rem;
     font-size: 0.8rem;
     color: rgba(255,255,255,0.5);
-}
-aside a {
-    color: inherit;
-}
-aside a:hover {
-    color: rgba(255,255,255,0.8);
 }
