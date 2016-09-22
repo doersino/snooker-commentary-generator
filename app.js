@@ -143,6 +143,9 @@ lines =
 
     // from https://www.youtube.com/watch?v=zGWmZ_pZyKs
     , "He likes these thin cuts."
+
+    // suggested by Ken Doherty, see https://twitter.com/kendoherty1997/status/778984382765957122
+    , "That was careless!<span>suggested by Ken Doherty</span>"
     ]
 
 function breakOff() {
