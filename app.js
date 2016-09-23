@@ -152,6 +152,9 @@ lines =
 
     // suggested by @SimonPkcjones, see https://twitter.com/simonpkcjones/status/779016611206406145
     , "There's always a gap!"
+
+    // suggested by Ken Doherty, see https://twitter.com/kendoherty1997/status/779073983849304064
+    , "Whatever you do, don't hit the blue!<span>suggested by <a href='https://twitter.com/kendoherty1997/status/779073983849304064'>Ken Doherty</a></span>"
     ]
 
 function breakOff() {
