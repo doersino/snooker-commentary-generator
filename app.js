@@ -174,12 +174,14 @@ function nextShot() {
         nextLine = Math.floor(Math.random() * lines.length) + 1
     }
     currentLine = nextLine
-    render()
+    location.hash = '#' + currentLine
 }
+
+// makes back button work
+window.onhashchange = breakOff
 
 function render() {
     document.getElementById("quote").innerHTML = lines[currentLine-1]
     pad = "000"
     currentLine = (pad + currentLine).slice(-pad.length)
-    location.hash = '#' + currentLine
 }
