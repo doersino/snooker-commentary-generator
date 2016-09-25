@@ -119,7 +119,7 @@ lines =
     // suggested by @slackline, see https://github.com/doersino/snooker-commentary-generator/issues/2
     , "He's had a result there."
 
-    // from the second half of https://www.youtube.com/watch?v=0j4ng7PL5yc
+    // from the middle of https://www.youtube.com/watch?v=0j4ng7PL5yc
     , "There's a red to the left corner on here, but I'm not quite sure where the white would finish."
     , "That's good cueing off the side cushion there."
     , "Well, he was trying to get on the red near the green, but didn't quite get enough check side on the cue ball."
@@ -155,6 +155,13 @@ lines =
 
     // suggested by Ken Doherty, see https://twitter.com/kendoherty1997/status/779073983849304064
     , "Whatever you do, don't hit the blue!<span>suggested by <a href='https://twitter.com/kendoherty1997/status/779073983849304064'>Ken Doherty</a></span>"
+
+    // from the last half-hour of https://www.youtube.com/watch?v=0j4ng7PL5yc
+    , "Could be a bit of a cheer if this red goes in."
+    , "It's not been big breaks, but he's really stuck to the task well."
+    , "He's blocked off the right-hand side of the pack."
+    , "What about that!"
+    , "Unbelievable cueing to get back for the pink."
     ]
 
 function breakOff() {
