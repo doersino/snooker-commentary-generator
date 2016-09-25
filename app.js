@@ -162,6 +162,13 @@ lines =
     , "He's blocked off the right-hand side of the pack."
     , "What about that!"
     , "Unbelievable cueing to get back for the pink."
+
+    // from the final session of the 2013 world snooker championship final, see https://www.youtube.com/watch?v=LkebXhPnEbM
+    , "Excellent pot!"
+    , "Needs to go past the blue!"
+    , "He couldn't've played it any better."
+    , "An excellent chance to go into the pack."
+    , "Played two great shots in this break and has not been rewarded."
     ]
 
 function breakOff() {
