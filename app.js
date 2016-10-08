@@ -169,6 +169,10 @@ lines =
     , "He couldn't've played it any better."
     , "An excellent chance to go into the pack."
     , "Played two great shots in this break and has not been rewarded."
+
+    // from https://www.youtube.com/watch?v=ZwOQgwiMHKM
+    , "Wasn't easy for him, hampered over the green there."
+    , "He's looking at the angle, I think he's going for the green here."
     ]
 
 function breakOff() {
