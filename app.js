@@ -173,6 +173,23 @@ lines =
     // from https://www.youtube.com/watch?v=ZwOQgwiMHKM
     , "Wasn't easy for him, hampered over the green there."
     , "He's looking at the angle, I think he's going for the green here."
+
+    // from https://www.youtube.com/watch?v=IhnqvquD_yo
+    , "Well, that could've been better."
+    , "This is one of those, just make sure to pot and let the rest happen."
+    , "He's been picking up the pieces in frames and winning them that way."
+    , "Last evening he hardly missed one."
+    , "Only one more red required."
+    , "He's not finished ideal – now this has to go in."
+    , "He has to be careful here."
+    , "If this goes in, it's even."
+    , "There's no doubt that these two frames could've gone either way."
+    , "A kick on the breakoff shot – now that's a rarity!"
+    , "Now is this read too thin?"
+    , "There's been some great stuff already from these two in this final."
+    , "Nicely controlled there."
+    , "Just got the right side of the blue."
+    , "Possible plant on here to the right corner."
     ]
 
 function breakOff() {
