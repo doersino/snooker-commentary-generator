@@ -190,6 +190,19 @@ lines =
     , "Nicely controlled there."
     , "Just got the right side of the blue."
     , "Possible plant on here to the right corner."
+
+    // from https://www.youtube.com/watch?v=EXF2_IusKdM
+    , "It's there."
+    , "He's got it."
+    , "He's inch-perfect on the black."
+    , "Oh my goodness, what a pot that is!"
+    , "What a shot this could be if he misses the blue!"
+    , "Have a look at that for a shot."
+    , "The line is good, but how's the pace?"
+    , "What a shot this could be!"
+    , "Needs to pull up a little bit."
+    , "Have you ever seen a split like that?"
+    , "That was an unbelievable positional shot he's just played there."
     ]
 
 function breakOff() {
