@@ -203,6 +203,10 @@ lines =
     , "Needs to pull up a little bit."
     , "Have you ever seen a split like that?"
     , "That was an unbelievable positional shot he's just played there."
+
+    , "He's one of the nicest lads you could ever wish to meet."
+    , "Doesn't matter about the blue"
+    , "Doesn't matter about the green"
     ]
 
 function breakOff() {
