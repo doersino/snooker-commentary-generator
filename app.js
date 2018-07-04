@@ -185,7 +185,7 @@ lines =
     , "If this goes in, it's even."
     , "There's no doubt that these two frames could've gone either way."
     , "A kick on the breakoff shot – now that's a rarity!"
-    , "Now is this read too thin?"
+    , "Now is this red too thin?"
     , "There's been some great stuff already from these two in this final."
     , "Nicely controlled there."
     , "Just got the right side of the blue."
