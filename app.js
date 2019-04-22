@@ -77,9 +77,11 @@ lines =
 
     // based on an old Reddit thread, see https://www.reddit.com/r/snooker/comments/2oogay/snooker_commentary_drinking_game_just_for_fun/
     , "The black's tied up now."
+    , "The pink's tied up now."
     , "With the blue and pink out of commission, he has to pot the black to clinch the frame."
     , "He's left it in the jaws of the pocket!"
     , "He's hampered by the green."
+    , "He's hampered by this cluster of reds."
     , "A slight cannon into the pink could lead to a frame-winning opportunity."
     , "A little wry smile on his face."
     , "It's amazing, isn't it?"
@@ -205,8 +207,9 @@ lines =
     , "That was an unbelievable positional shot he's just played there."
 
     , "He's one of the nicest lads you could ever wish to meet."
-    , "Doesn't matter about the blue"
-    , "Doesn't matter about the green"
+    , "Doesn't matter about the blue."
+    , "Doesn't matter about the green."
+    , "This is frame ball."
     ]
 
 function breakOff() {
