@@ -1,3 +1,4 @@
+// important: only add lines at the bottom in order to avoid breaking links
 lines =
     [ "Where's the cue ball going?!"
     , "It's okay."
@@ -210,6 +211,21 @@ lines =
     , "Doesn't matter about the blue."
     , "Doesn't matter about the green."
     , "This is frame ball."
+
+    // from the last session of the 2019 wc final, see https://www.youtube.com/watch?v=uD72UHuevWI
+    , "That needs to pull up."
+    , "That needs to pull up or run a bit further."
+    , "He may have an angle on the yellow to get back to the reds."
+    , "He's done precious little wrong in this match, but his opponent has just been outstanding."
+    , "He needs 42 more points to take the frame."
+    , "Didn't want to leave this angle on the blue."
+    , "Beautiful little cannon."
+    , "He only needs this red and a colour."
+    , "Didn't want the cannon on this yellow."
+    , "This brown is a thin cut."
+    , "Tough shot, this."
+
+    , "That's inch-perfect!"
     ]
 
 function breakOff() {
@@ -222,7 +238,7 @@ function breakOff() {
     }
 }
 
-// avoids showing the same line twice in a row
+// avoid showing the same line twice in a row
 function nextShot() {
     nextLine = currentLine
     while (nextLine == currentLine) {
@@ -232,7 +248,7 @@ function nextShot() {
     location.hash = '#' + currentLine
 }
 
-// makes back button work
+// make back button work
 window.onhashchange = breakOff
 
 function render() {
