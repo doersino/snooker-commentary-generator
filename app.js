@@ -1,5 +1,5 @@
 // important: only add lines at the bottom in order to avoid breaking links
-lines =
+const lines =
     [ "Where's the cue ball going?!"
     , "It's okay."
     , "Quick glance at the scoreboard, 46 points behind."
@@ -228,31 +228,32 @@ lines =
     , "That's inch-perfect!"
     ]
 
+var currentLine = -1;
+
+// set things up
 function breakOff() {
     if (location.hash) {
-        currentLine = location.hash.slice(1)
-        render()
+        currentLine = location.hash.slice(1);
+        render();
     } else {
-        currentLine = -1
-        nextShot()
+        nextShot();
     }
 }
 
-// avoid showing the same line twice in a row
+// generate new line, avoid showing the same line twice in a row
 function nextShot() {
-    nextLine = currentLine
+    let nextLine = currentLine;
     while (nextLine == currentLine) {
-        nextLine = Math.floor(Math.random() * lines.length) + 1
+        nextLine = Math.floor(Math.random() * lines.length) + 1;
     }
-    currentLine = nextLine
-    location.hash = '#' + currentLine
+    currentLine = nextLine;
+    history.replaceState({}, '', '#' + currentLine);
+    breakOff();
 }
 
-// make back button work
-window.onhashchange = breakOff
-
+// render current line
 function render() {
-    document.getElementById("quote").innerHTML = lines[currentLine-1]
-    pad = "000"
-    currentLine = (pad + currentLine).slice(-pad.length)
+    document.getElementById("quote").innerHTML = lines[currentLine-1];
+    let pad = "000";
+    currentLine = (pad + currentLine).slice(-pad.length);
 }
