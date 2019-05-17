@@ -226,7 +226,7 @@ const lines =
     , "Tough shot, this."
 
     , "That's inch-perfect!"
-    ]
+    ];
 
 var currentLine = -1;
 
