@@ -23,7 +23,7 @@ body:before {
     margin-right: -0.25rem;
 }
 main {
-    max-width: 99%;
+    max-width: 60rem;
     display: inline-block;
     vertical-align: middle;
     margin: auto;
