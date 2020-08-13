@@ -316,6 +316,22 @@ const lines =
     , "Excellent cueing, excellent cueing – just overhit it slightly."
     , "One thing he doesn't lack is determination."
     , "Lots of pressure on this one."
+    , "The next frame is not a formality."
+    , "I think he'll accept that it's gone wrong, push the green safe, and play the safety."
+    , "Hit it a bit thick, that's why the cue ball hasn't reached the baulk line."
+    , "I'm surprised he took that on!"
+    , "He's 62 behind, one snooker needed."
+    , "Why so hard?"
+    , "He's going for shots, but they're not going in."
+    , "Good break-off, look where the cue ball is."
+    , "Got enough side on the cue ball not to leave the red over the right corner."
+    , "Surely this red doesn't go."
+    , "Little standoff then at the start of this frame."
+    , "That could have been a frame-winner, had he got it."
+    , "Nudging more reds out."
+    , "Holding for the red over the corner pocket."
+    , "More reds being developed."
+    , "Perfectly played!"
     ];
 
 var currentLine = -1;
