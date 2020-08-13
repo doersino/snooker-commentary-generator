@@ -287,7 +287,7 @@ const lines =
     ];
 
 var currentLine = -1;
-var recentLines = [];
+var recentLines = [-1];
 
 // set things up
 function breakOff() {
