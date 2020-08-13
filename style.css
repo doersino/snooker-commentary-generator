@@ -23,12 +23,18 @@ body:before {
     margin-right: -0.25rem;
 }
 main {
-    max-width: 60rem;
+    max-width: calc(min(99%, 60rem));
     display: inline-block;
     vertical-align: middle;
     margin: auto;
     padding: 3rem;
     text-align: center;
+}
+h2 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    opacity: 0.66;
+    margin-bottom: 1rem;
 }
 h1 {
     font-size: 2.75rem;

@@ -314,7 +314,6 @@ function nextShot() {
 
 // render current line
 function render() {
+    document.getElementById("number").innerHTML = "#" + currentLine;
     document.getElementById("quote").innerHTML = lines[currentLine-1];
-    let pad = "000";
-    currentLine = (pad + currentLine).slice(-pad.length);
 }
