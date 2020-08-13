@@ -287,21 +287,24 @@ const lines =
     ];
 
 var currentLine = -1;
+var recentLines = [];
 
 // set things up
 function breakOff() {
     if (location.hash) {
         currentLine = location.hash.slice(1);
         render();
+        recentLines.push(currentLine);
     } else {
         nextShot();
     }
 }
 
-// generate new line, avoid showing the same line twice in a row
+// generate new line, avoid showing the same line again for a while
 function nextShot() {
+    recentLines.splice(0, recentLines.length - 20 + 1);
     let nextLine = currentLine;
-    while (nextLine == currentLine) {
+    while (recentLines.includes(nextLine)) {
         nextLine = Math.floor(Math.random() * lines.length) + 1;
     }
     currentLine = nextLine;
