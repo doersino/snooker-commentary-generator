@@ -293,7 +293,7 @@ const lines =
     , "Nicely played."
     , "Will he risk playing for the black?"
     , "He's playing for the black!"
-    , "Just potted the red a litte thick, otherwise the cue ball would've been two or three inches closer to the black."
+    , "Just potted the red a little thick, otherwise the cue ball would've been two or three inches closer to the black."
     , "This isn't straightforward, either."
     , "Just looking to see if the pink will go into that left corner – if it does, he'll be in business."
     , "He'd like to be absolutely straight on this pink."
@@ -340,6 +340,29 @@ const lines =
 
     // suggested by /u/georgemccauley, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1etllo/
     , "That's gone right into the heart of the pocket."
+    , "He's used all of the pocket there."
+
+    // third session of the o'sullivan-selby match above
+    , "He needs to do some damage here."
+    , "Four reds, four blacks."
+    , "That's not a good shot."
+    , "This match has really come alive."
+    , "Hit that almost too well – the cue ball has raced up the table."
+    , "Had to catch the red just right there to keep things relatively safe."
+    , "Well then, here's a possible twist."
+    , "That's not great – all the reds have gone in each other's way."
+    , "Another weak safety."
+    , "If this goes in, you'd fancy him to win the frame."
+    , "That couldn't have been struck more sweetly."
+    , "I'm not surprised he's missed this – horrid shot."
+    , "Good shot."
+    , "He's in the mood to do some serious damage tonight."
+    , "He's having a look at the bunch."
+    , "That'll do."
+    , "Still work to do."
+    , "Looks a good angle on the brown to get the reds open."
+    , "This is the biggest shot of the evening so far."
+    , "Very well played."
     ];
 
 var currentLine = -1;
