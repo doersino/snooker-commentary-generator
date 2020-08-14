@@ -332,6 +332,14 @@ const lines =
     , "Holding for the red over the corner pocket."
     , "More reds being developed."
     , "Perfectly played!"
+
+    // suggested by /u/pinkfairyboy_, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1dqz7y/
+    , "How's your luck?"
+    , "Bit short of pace."
+    , "He'd like to win this frame in one visit."
+
+    // suggested by /u/georgemccauley, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1etllo/
+    , "That's gone right into the heart of the pocket."
     ];
 
 var currentLine = -1;
