@@ -112,7 +112,7 @@ const lines =
     , "I've never seen anything like that before."
 
     // suggested by /u/I_tend_to_correct_u, see https://www.reddit.com/r/snooker/comments/53o2hc/snooker_commentary_generator/d7vbheh
-    , "We have a knowledgable crowd in this evening."
+    , "We have a knowledgeable crowd in this evening."
     , "You're never settled until you've got a frame on the board."
     , "A crucial frame, this one!"
     , "He's given himself a lot to do here."
@@ -227,7 +227,7 @@ const lines =
 
     , "That's inch-perfect!"
 
-    // from ronnie vs selby, wolds 2020, semi-fimal, second half of session 1
+    // from ronnie vs selby, wolds 2020, semi-final, second half of session 1
     , "That's a great recovery shot."
     , "He was looking good."
     , "Very tight, that."
@@ -363,6 +363,28 @@ const lines =
     , "Looks a good angle on the brown to get the reds open."
     , "This is the biggest shot of the evening so far."
     , "Very well played."
+    , "He's played that particularly well."
+    , "He played the old hit and hope there."
+    , "Magnificent!"
+    , "Superb pot."
+    , "What a split that is!"
+    , "Hit the pink smack on the nose."
+    , "He's missed it!"
+    , "This would be some clearance!"
+    , "This is awkward cueing."
+    , "But! That red stays out!"
+    , "This green is not straightforward – he's one a stretch."
+    , "That was a fantastic shot."
+    , "He'll have to force it to get enough on the cue ball to go into the bunch."
+    , "The cue ball plowed through them, but strangely the reds didn't open up."
+    , "30 the difference."
+    , "That's much more like it!"
+    , "Stroked that in nicely."
+    , "25 the difference, 43 on."
+
+    // suggested by /u/https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h64sm/?context=3, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h64sm/?context=3 and https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h4wfm/?context=3
+    , "I don’t think he can win the frame at this visit, but he can certainly get right back into it."
+    , "This is a big pocket."
     ];
 
 var currentLine = -1;
