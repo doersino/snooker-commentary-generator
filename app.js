@@ -373,7 +373,7 @@ const lines =
     , "This would be some clearance!"
     , "This is awkward cueing."
     , "But! That red stays out!"
-    , "This green is not straightforward – he's one a stretch."
+    , "This green is not straightforward – he's on a stretch."
     , "That was a fantastic shot."
     , "He'll have to force it to get enough on the cue ball to go into the bunch."
     , "The cue ball plowed through them, but strangely the reds didn't open up."
