@@ -419,6 +419,16 @@ const lines =
     , "This might be cuttable."
     , "This feels like the most important frame of the session, doesn't it?"
     , "That was tough!"
+    , "...and that looks like end of break."
+    , "He's been handed another chance to get back into the frame."
+    , "What a steal this would be!"
+    , "That was one heck of a chance he's passed up there – and he knows it."
+    , "Didn't get enough stun in the cue ball."
+    , "He's in a bit of a struggle at the moment."
+    , "This is a tough bit of cueing."
+    , "He's looking at the cannon."
+    , "What a pot that was to the middle pocket!"
+    , "Even though he's desperate to win this frame, he just can't put it away!"
     ];
 
 var currentLine = -1;
