@@ -429,6 +429,20 @@ const lines =
     , "He's looking at the cannon."
     , "What a pot that was to the middle pocket!"
     , "Even though he's desperate to win this frame, he just can't put it away!"
+    , "That's jumped off the cushion!"
+    , "Hmm."
+    , "He nearly went in off the pink!"
+    , "He might run into the pink, just to kill the pace of the cue ball."
+    , "This has to be hit very well."
+    , "A big opportunity missed there with that poor positional shot."
+    , "Far too thick."
+    , "He'll be disgusted with himself."
+    , "He's okay."
+    , "Magnificent shot!"
+    , "He's the only player in this match at the moment."
+    , "The audience, as ever, very knowledgeable."
+    , "The red just below the pink is available."
+    , "This is a tricky little shot – he'll do well to avoid the cannon."
     ];
 
 var currentLine = -1;
