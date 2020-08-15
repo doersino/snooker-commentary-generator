@@ -227,7 +227,7 @@ const lines =
 
     , "That's inch-perfect!"
 
-    // from ronnie vs selby, wolds 2020, semi-final, second half of session 1
+    // from ronnie vs selby, wolds 2020, semi-final, second half of session 1 (eurosport)
     , "That's a great recovery shot."
     , "He was looking good."
     , "Very tight, that."
@@ -285,7 +285,7 @@ const lines =
     , "That looks just about right."
     , "That only just went in."
 
-    // second session of the same match
+    // from the second session of the same match (eurosport)
     , "He's certainly on one to the left corner, but I think he's on one to the right, as well."
     , "Look at the right-hand side on the cue ball there!"
     , "He'll want to hit right back after losing the opening two frames."
@@ -342,7 +342,7 @@ const lines =
     , "That's gone right into the heart of the pocket."
     , "He's used all of the pocket there."
 
-    // third session of the o'sullivan-selby match above
+    // from the third session of the o'sullivan-selby match above (eurosport)
     , "He needs to do some damage here."
     , "Four reds, four blacks."
     , "That's not a good shot."
@@ -385,6 +385,40 @@ const lines =
     // suggested by /u/https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h64sm/?context=3, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h64sm/?context=3 and https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h4wfm/?context=3
     , "I don’t think he can win the frame at this visit, but he can certainly get right back into it."
     , "This is a big pocket."
+
+    // from the 2020 worlds final (bbc)
+    , "Maybe this will settle him down."
+    , "An early chance!"
+    , "And once again, he's missed a pot to that right corner."
+    , "Look at his safety success rate – it's 86 percent."
+    , "Once good positional shot here, and he'll have a great chance."
+    , "He might just be okay."
+    , "He's got them where he wants them now!"
+    , "He's prefer to do it without playing a cannon, but he might have to here."
+    , "He'll need two of these six reds on the top cushion to win the frame."
+    , "Bit unlucky there, he's got a nudge from that red."
+    , "Is this end of break?"
+    , "He's got an easy safety shot off the loose red."
+    , "If he's gonna go into the pack, it's going to be from the top cushion now."
+    , "The pink just seemed to drift a bit towards the left there."
+    , "I thought we were going to drift into 10 minutes all about the nap of the cloth there, but we've held back."
+    , "It will take some shot to get to the yellow."
+    , "Has to power this in."
+    , "The green and the brown are inviting."
+    , "He's completely mishit that – surely he didn't play that?"
+    , "That wasn't in the heart of the pocket, that's why he's not on the pink."
+    , "He can cut the blue in, then in and out of baulk."
+    , "Can you believe it?"
+    , "That's terrible cueing from him there."
+    , "Didn't really get much action on the cue ball there, so he's a bit wider than he would've wanted."
+    , "Hasn't gone far enough – it's difficult now."
+    , "He'll settle for that."
+    , "What a clever shot!"
+    , "Caught it too thin."
+    , "That was the best he could do without sending the cue ball up and down the table."
+    , "This might be cuttable."
+    , "This feels like the most important frame of the session, doesn't it?"
+    , "That was tough!"
     ];
 
 var currentLine = -1;
@@ -403,7 +437,7 @@ function breakOff() {
 
 // generate new line, avoid showing the same line again for a while
 function nextShot() {
-    recentLines.splice(0, recentLines.length - 20 + 1);
+    recentLines.splice(0, recentLines.length - 50 + 1);
     let nextLine = currentLine;
     while (recentLines.includes(nextLine)) {
         nextLine = Math.floor(Math.random() * lines.length) + 1;
