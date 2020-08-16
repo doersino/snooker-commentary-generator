@@ -382,7 +382,7 @@ const lines =
     , "Stroked that in nicely."
     , "25 the difference, 43 on."
 
-    // suggested by /u/https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h64sm/?context=3, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h64sm/?context=3 and https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h4wfm/?context=3
+    // more suggestions by /u/georgemccauley, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h64sm/?context=3 and https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1h4wfm/?context=3
     , "I don’t think he can win the frame at this visit, but he can certainly get right back into it."
     , "This is a big pocket."
 
@@ -443,6 +443,17 @@ const lines =
     , "The audience, as ever, very knowledgeable."
     , "The red just below the pink is available."
     , "This is a tricky little shot – he'll do well to avoid the cannon."
+    , "How close was that?!"
+    , "I thought that was in!"
+    , "Now for the blue to go into the bunch."
+    , "He's played a delicate little shot."
+    , "Not taking any risks even though he's got a massive advantage."
+    , "Not tempted at all by the red to the left corner – he's keeping disciplined."
+    , "That was an unforced error."
+
+    // more suggestions by /u/georgemccauley, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1qcfiv/?context=3 and https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1qccqb/?context=3
+    , "This is awkward going into a blind pocket."
+    , "He might be 50 points behind in the frame – but he's just gone favourite!"
     ];
 
 var currentLine = -1;
