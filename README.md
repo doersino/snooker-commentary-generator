@@ -2,7 +2,7 @@
 
 Just a silly little toy, written in plain HTML, CSS and JavaScript.
 
-[Try it on GitHub Pages!](https://doersino.github.io/snooker-commentary-generator/index.html)
+[Try it on GitHub Pages!](https://ghpages.noahdoersing.com/snooker-commentary-generator/index.html)
 
 
 ![](screenshot.jpg)
