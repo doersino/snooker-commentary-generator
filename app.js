@@ -454,6 +454,21 @@ const lines =
     // more suggestions by /u/georgemccauley, see https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1qcfiv/?context=3 and https://www.reddit.com/r/snooker/comments/i92ea4/snooker_commentary_generator/g1qccqb/?context=3
     , "This is awkward going into a blind pocket."
     , "He might be 50 points behind in the frame – but he's just gone favourite!"
+
+    // via
+    , "That was a very nicely-controlled positional shot also."
+    , "That's just pushed three more reds into play."
+    , "There's no reason for him to not keep himself on the black."
+    , "Still early days here."
+    , "That little glance off the red may have just opened another at the back of the pack."
+    , "Still work to be done."
+    , "He's perfect on this black!"
+    , "There's possibly a red next to the pink."
+    , "Chose to go into them – not ideal!"
+    , "Still needs another red for the frame."
+    , "This black for the century, but the 147 is on his mind."
+    , "Key shot coming up – red to black, needs the angle to bring that red into play."
+    , "This is a tough red now."
     ];
 
 var currentLine = -1;
